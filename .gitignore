@@ -1,3 +1,5 @@
 .ipynb_checkpoints/**
 deberta_output/**
 .idea/**
+LoRA_deberta_output/**
+deberta-v3-base.py
