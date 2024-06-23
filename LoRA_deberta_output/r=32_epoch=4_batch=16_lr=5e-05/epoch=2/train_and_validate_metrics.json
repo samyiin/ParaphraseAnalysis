@@ -1,0 +1,2072 @@
+[
+    {
+        "epoch": 2,
+        "batch": 0,
+        "train_loss": 0.37548673152923584,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.028155476919242313,
+        "val_accuracy": 0.7767857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 1,
+        "train_loss": 0.48470959067344666,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.03125621298594134,
+        "val_accuracy": 0.7678571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 2,
+        "train_loss": 0.45923128724098206,
+        "train_accuracy": 0.75,
+        "val_loss": 0.028314641543797085,
+        "val_accuracy": 0.8214285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 3,
+        "train_loss": 0.3598760664463043,
+        "train_accuracy": 0.875,
+        "val_loss": 0.03061016249869551,
+        "val_accuracy": 0.7410714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 4,
+        "train_loss": 0.48182040452957153,
+        "train_accuracy": 0.75,
+        "val_loss": 0.02744574099779129,
+        "val_accuracy": 0.8125,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 5,
+        "train_loss": 0.5160932540893555,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.027742075068610057,
+        "val_accuracy": 0.7767857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 6,
+        "train_loss": 0.382941871881485,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.024187026279313222,
+        "val_accuracy": 0.8482142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 7,
+        "train_loss": 0.526323139667511,
+        "train_accuracy": 0.75,
+        "val_loss": 0.02884009906223842,
+        "val_accuracy": 0.7678571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 8,
+        "train_loss": 0.504378080368042,
+        "train_accuracy": 0.75,
+        "val_loss": 0.029181371576019695,
+        "val_accuracy": 0.7946428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 9,
+        "train_loss": 0.36848947405815125,
+        "train_accuracy": 0.875,
+        "val_loss": 0.03006944459463869,
+        "val_accuracy": 0.8035714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 10,
+        "train_loss": 0.5642930865287781,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.029384137530411993,
+        "val_accuracy": 0.75,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 11,
+        "train_loss": 0.4538179636001587,
+        "train_accuracy": 0.875,
+        "val_loss": 0.031210328585335186,
+        "val_accuracy": 0.7410714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 12,
+        "train_loss": 0.643593966960907,
+        "train_accuracy": 0.625,
+        "val_loss": 0.03078241433416094,
+        "val_accuracy": 0.6964285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 13,
+        "train_loss": 0.4340663254261017,
+        "train_accuracy": 0.75,
+        "val_loss": 0.02630690817854234,
+        "val_accuracy": 0.8125,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 14,
+        "train_loss": 0.4819386899471283,
+        "train_accuracy": 0.75,
+        "val_loss": 0.03256624724183764,
+        "val_accuracy": 0.7321428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 15,
+        "train_loss": 0.38658031821250916,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.03159579075872898,
+        "val_accuracy": 0.7232142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 16,
+        "train_loss": 0.4223162531852722,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.03358391220016139,
+        "val_accuracy": 0.7232142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 17,
+        "train_loss": 0.5752421617507935,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.03016734548977443,
+        "val_accuracy": 0.7946428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 18,
+        "train_loss": 0.40001314878463745,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.030612439449344362,
+        "val_accuracy": 0.7321428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 19,
+        "train_loss": 0.47505661845207214,
+        "train_accuracy": 0.75,
+        "val_loss": 0.025907195306250026,
+        "val_accuracy": 0.8482142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 20,
+        "train_loss": 0.32474708557128906,
+        "train_accuracy": 1.0,
+        "val_loss": 0.027627314973090376,
+        "val_accuracy": 0.8125,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 21,
+        "train_loss": 0.6946065425872803,
+        "train_accuracy": 0.5,
+        "val_loss": 0.02998367457517556,
+        "val_accuracy": 0.7678571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 22,
+        "train_loss": 0.48451608419418335,
+        "train_accuracy": 0.875,
+        "val_loss": 0.02611914649605751,
+        "val_accuracy": 0.8125,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 23,
+        "train_loss": 0.528842568397522,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.027737314413700784,
+        "val_accuracy": 0.8392857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 24,
+        "train_loss": 0.6112776398658752,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.029345397438321794,
+        "val_accuracy": 0.75,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 25,
+        "train_loss": 0.4257030785083771,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.029196344316005707,
+        "val_accuracy": 0.7321428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 26,
+        "train_loss": 0.41519033908843994,
+        "train_accuracy": 0.875,
+        "val_loss": 0.031225045876843587,
+        "val_accuracy": 0.7410714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 27,
+        "train_loss": 0.3843809962272644,
+        "train_accuracy": 0.875,
+        "val_loss": 0.028957881033420563,
+        "val_accuracy": 0.7589285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 28,
+        "train_loss": 0.3445933163166046,
+        "train_accuracy": 0.875,
+        "val_loss": 0.028069921636155674,
+        "val_accuracy": 0.7678571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 29,
+        "train_loss": 0.34582334756851196,
+        "train_accuracy": 0.875,
+        "val_loss": 0.029620447595204626,
+        "val_accuracy": 0.7589285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 30,
+        "train_loss": 0.5575183629989624,
+        "train_accuracy": 0.75,
+        "val_loss": 0.030207070655056407,
+        "val_accuracy": 0.7857142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 31,
+        "train_loss": 0.4316748380661011,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.03203904415879931,
+        "val_accuracy": 0.7678571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 32,
+        "train_loss": 0.5779137015342712,
+        "train_accuracy": 0.625,
+        "val_loss": 0.025764248999101774,
+        "val_accuracy": 0.8035714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 33,
+        "train_loss": 0.4281250834465027,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.03207772916981152,
+        "val_accuracy": 0.7410714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 34,
+        "train_loss": 0.43269121646881104,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.02579191087612084,
+        "val_accuracy": 0.8035714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 35,
+        "train_loss": 0.566704511642456,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.028023671891008104,
+        "val_accuracy": 0.8035714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 36,
+        "train_loss": 0.3912804424762726,
+        "train_accuracy": 0.75,
+        "val_loss": 0.03272046414869172,
+        "val_accuracy": 0.75,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 37,
+        "train_loss": 0.5349539518356323,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.024806068145803044,
+        "val_accuracy": 0.8303571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 38,
+        "train_loss": 0.64739590883255,
+        "train_accuracy": 0.625,
+        "val_loss": 0.030658042590532984,
+        "val_accuracy": 0.7410714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 39,
+        "train_loss": 0.6701490879058838,
+        "train_accuracy": 0.75,
+        "val_loss": 0.03467989154160023,
+        "val_accuracy": 0.7142857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 40,
+        "train_loss": 0.3746875822544098,
+        "train_accuracy": 0.75,
+        "val_loss": 0.027955516374536922,
+        "val_accuracy": 0.75,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 41,
+        "train_loss": 0.44892311096191406,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.0276348242270095,
+        "val_accuracy": 0.7857142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 42,
+        "train_loss": 0.6224204301834106,
+        "train_accuracy": 0.625,
+        "val_loss": 0.024840130869831358,
+        "val_accuracy": 0.8571428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 43,
+        "train_loss": 0.7680752277374268,
+        "train_accuracy": 0.625,
+        "val_loss": 0.02633866561310632,
+        "val_accuracy": 0.8125,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 44,
+        "train_loss": 0.3081204891204834,
+        "train_accuracy": 0.9375,
+        "val_loss": 0.029179141989776065,
+        "val_accuracy": 0.7857142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 45,
+        "train_loss": 0.5849948525428772,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.026836951662387167,
+        "val_accuracy": 0.7946428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 46,
+        "train_loss": 0.38331884145736694,
+        "train_accuracy": 0.875,
+        "val_loss": 0.028695698561412946,
+        "val_accuracy": 0.75,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 47,
+        "train_loss": 0.5295353531837463,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.02663697488605976,
+        "val_accuracy": 0.8035714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 48,
+        "train_loss": 0.4651881754398346,
+        "train_accuracy": 0.625,
+        "val_loss": 0.02726406417787075,
+        "val_accuracy": 0.7767857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 49,
+        "train_loss": 0.40166807174682617,
+        "train_accuracy": 0.75,
+        "val_loss": 0.0274366701820067,
+        "val_accuracy": 0.8125,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 50,
+        "train_loss": 0.5027788281440735,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.029180213809013367,
+        "val_accuracy": 0.7857142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 51,
+        "train_loss": 0.4190969467163086,
+        "train_accuracy": 0.75,
+        "val_loss": 0.02927816073809351,
+        "val_accuracy": 0.7857142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 52,
+        "train_loss": 0.46220511198043823,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.028553828597068787,
+        "val_accuracy": 0.7767857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 53,
+        "train_loss": 0.4592304527759552,
+        "train_accuracy": 0.75,
+        "val_loss": 0.024937315710953305,
+        "val_accuracy": 0.8125,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 54,
+        "train_loss": 0.8019563555717468,
+        "train_accuracy": 0.375,
+        "val_loss": 0.028092003028307642,
+        "val_accuracy": 0.7767857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 55,
+        "train_loss": 0.4824022352695465,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.02845322766474315,
+        "val_accuracy": 0.8035714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 56,
+        "train_loss": 0.3487637937068939,
+        "train_accuracy": 0.875,
+        "val_loss": 0.027739748092634336,
+        "val_accuracy": 0.7857142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 57,
+        "train_loss": 0.37150973081588745,
+        "train_accuracy": 0.875,
+        "val_loss": 0.029521657952240536,
+        "val_accuracy": 0.7767857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 58,
+        "train_loss": 0.37835991382598877,
+        "train_accuracy": 0.875,
+        "val_loss": 0.02989164473755019,
+        "val_accuracy": 0.7410714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 59,
+        "train_loss": 0.39527517557144165,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.03166923565523965,
+        "val_accuracy": 0.7321428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 60,
+        "train_loss": 0.4727328419685364,
+        "train_accuracy": 0.75,
+        "val_loss": 0.028699707772050585,
+        "val_accuracy": 0.7142857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 61,
+        "train_loss": 0.5018129944801331,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.0295450006212507,
+        "val_accuracy": 0.7410714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 62,
+        "train_loss": 0.55271315574646,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.028093216408576285,
+        "val_accuracy": 0.8035714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 63,
+        "train_loss": 0.6406972408294678,
+        "train_accuracy": 0.5625,
+        "val_loss": 0.02689061446913651,
+        "val_accuracy": 0.8214285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 64,
+        "train_loss": 0.48863300681114197,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.031944270112684796,
+        "val_accuracy": 0.7321428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 65,
+        "train_loss": 0.36785125732421875,
+        "train_accuracy": 0.875,
+        "val_loss": 0.027424210948603495,
+        "val_accuracy": 0.7678571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 66,
+        "train_loss": 0.4567570090293884,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.024004381150007248,
+        "val_accuracy": 0.8482142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 67,
+        "train_loss": 0.4774714410305023,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.026122322039944783,
+        "val_accuracy": 0.7946428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 68,
+        "train_loss": 0.3400312066078186,
+        "train_accuracy": 0.875,
+        "val_loss": 0.03152335701244218,
+        "val_accuracy": 0.7410714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 69,
+        "train_loss": 0.53815758228302,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.03105180524289608,
+        "val_accuracy": 0.7767857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 70,
+        "train_loss": 0.28497135639190674,
+        "train_accuracy": 0.9375,
+        "val_loss": 0.029407616970794543,
+        "val_accuracy": 0.7589285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 71,
+        "train_loss": 0.5711422562599182,
+        "train_accuracy": 0.625,
+        "val_loss": 0.024957822635769844,
+        "val_accuracy": 0.8035714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 72,
+        "train_loss": 0.5545814037322998,
+        "train_accuracy": 0.75,
+        "val_loss": 0.028985983026879176,
+        "val_accuracy": 0.7857142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 73,
+        "train_loss": 0.3776037096977234,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.02779344149998256,
+        "val_accuracy": 0.7857142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 74,
+        "train_loss": 0.39925408363342285,
+        "train_accuracy": 0.75,
+        "val_loss": 0.027822837100497315,
+        "val_accuracy": 0.8035714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 75,
+        "train_loss": 0.35730794072151184,
+        "train_accuracy": 0.875,
+        "val_loss": 0.024120408376412734,
+        "val_accuracy": 0.8303571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 76,
+        "train_loss": 0.3901469111442566,
+        "train_accuracy": 0.875,
+        "val_loss": 0.033566871125783236,
+        "val_accuracy": 0.7142857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 77,
+        "train_loss": 0.44163644313812256,
+        "train_accuracy": 0.75,
+        "val_loss": 0.032416555498327525,
+        "val_accuracy": 0.7410714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 78,
+        "train_loss": 0.37266817688941956,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.02955691995365279,
+        "val_accuracy": 0.7589285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 79,
+        "train_loss": 0.3341788947582245,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.03089484412755285,
+        "val_accuracy": 0.7589285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 80,
+        "train_loss": 0.31326934695243835,
+        "train_accuracy": 0.9375,
+        "val_loss": 0.025576499423810413,
+        "val_accuracy": 0.8303571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 81,
+        "train_loss": 0.4323354959487915,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.030556211780224527,
+        "val_accuracy": 0.7410714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 82,
+        "train_loss": 0.5007627606391907,
+        "train_accuracy": 0.75,
+        "val_loss": 0.02519034720691187,
+        "val_accuracy": 0.8303571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 83,
+        "train_loss": 0.6123082637786865,
+        "train_accuracy": 0.75,
+        "val_loss": 0.0251680782863072,
+        "val_accuracy": 0.8214285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 84,
+        "train_loss": 0.42454975843429565,
+        "train_accuracy": 0.875,
+        "val_loss": 0.027535686269402504,
+        "val_accuracy": 0.8125,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 85,
+        "train_loss": 0.36813756823539734,
+        "train_accuracy": 0.875,
+        "val_loss": 0.026100322205041136,
+        "val_accuracy": 0.8035714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 86,
+        "train_loss": 0.5469043254852295,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.029801455459424427,
+        "val_accuracy": 0.7589285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 87,
+        "train_loss": 0.4048954248428345,
+        "train_accuracy": 0.75,
+        "val_loss": 0.032823635797415464,
+        "val_accuracy": 0.7410714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 88,
+        "train_loss": 0.24210664629936218,
+        "train_accuracy": 0.9375,
+        "val_loss": 0.027025504569922174,
+        "val_accuracy": 0.7857142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 89,
+        "train_loss": 0.3428913354873657,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.024782688223889897,
+        "val_accuracy": 0.8303571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 90,
+        "train_loss": 0.28868386149406433,
+        "train_accuracy": 0.9375,
+        "val_loss": 0.03010771450187479,
+        "val_accuracy": 0.75,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 91,
+        "train_loss": 0.42770469188690186,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.02562696180705513,
+        "val_accuracy": 0.8125,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 92,
+        "train_loss": 0.3840784430503845,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.028573833405971527,
+        "val_accuracy": 0.75,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 93,
+        "train_loss": 0.38320186734199524,
+        "train_accuracy": 0.875,
+        "val_loss": 0.027973098680377007,
+        "val_accuracy": 0.7678571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 94,
+        "train_loss": 0.34286344051361084,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.02797570771404675,
+        "val_accuracy": 0.7767857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 95,
+        "train_loss": 0.5658637285232544,
+        "train_accuracy": 0.75,
+        "val_loss": 0.0247762884412493,
+        "val_accuracy": 0.8035714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 96,
+        "train_loss": 0.3691771626472473,
+        "train_accuracy": 0.75,
+        "val_loss": 0.03173564613929817,
+        "val_accuracy": 0.7053571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 97,
+        "train_loss": 0.42229047417640686,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.028862168480243002,
+        "val_accuracy": 0.8035714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 98,
+        "train_loss": 0.3027234375476837,
+        "train_accuracy": 0.875,
+        "val_loss": 0.024678086329783713,
+        "val_accuracy": 0.8303571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 99,
+        "train_loss": 0.46945720911026,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.027076134192092077,
+        "val_accuracy": 0.8035714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 100,
+        "train_loss": 0.4845273196697235,
+        "train_accuracy": 0.75,
+        "val_loss": 0.029126254309500967,
+        "val_accuracy": 0.75,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 101,
+        "train_loss": 0.3387221097946167,
+        "train_accuracy": 0.875,
+        "val_loss": 0.028446880036166737,
+        "val_accuracy": 0.7678571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 102,
+        "train_loss": 0.5468056201934814,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.026747744530439377,
+        "val_accuracy": 0.7946428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 103,
+        "train_loss": 0.35570821166038513,
+        "train_accuracy": 0.875,
+        "val_loss": 0.025829067719834193,
+        "val_accuracy": 0.7946428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 104,
+        "train_loss": 0.611664354801178,
+        "train_accuracy": 0.5625,
+        "val_loss": 0.03150179556437901,
+        "val_accuracy": 0.7053571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 105,
+        "train_loss": 0.362430214881897,
+        "train_accuracy": 0.875,
+        "val_loss": 0.028337799278753146,
+        "val_accuracy": 0.7857142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 106,
+        "train_loss": 0.42214256525039673,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.020803761003272876,
+        "val_accuracy": 0.875,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 107,
+        "train_loss": 0.3928738832473755,
+        "train_accuracy": 0.75,
+        "val_loss": 0.029743590259126255,
+        "val_accuracy": 0.7857142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 108,
+        "train_loss": 0.4127238392829895,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.02714213010455881,
+        "val_accuracy": 0.7857142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 109,
+        "train_loss": 0.36512917280197144,
+        "train_accuracy": 0.75,
+        "val_loss": 0.027685975123729025,
+        "val_accuracy": 0.7767857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 110,
+        "train_loss": 0.516431987285614,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.031347914199743955,
+        "val_accuracy": 0.7589285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 111,
+        "train_loss": 0.5841546058654785,
+        "train_accuracy": 0.75,
+        "val_loss": 0.02524294438106673,
+        "val_accuracy": 0.8214285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 112,
+        "train_loss": 0.4641494154930115,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.026808132018361772,
+        "val_accuracy": 0.7946428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 113,
+        "train_loss": 0.46533313393592834,
+        "train_accuracy": 0.75,
+        "val_loss": 0.02895155655486243,
+        "val_accuracy": 0.7678571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 114,
+        "train_loss": 0.4614333510398865,
+        "train_accuracy": 0.75,
+        "val_loss": 0.029838441738060544,
+        "val_accuracy": 0.7767857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 115,
+        "train_loss": 0.3766551613807678,
+        "train_accuracy": 0.875,
+        "val_loss": 0.024794760027102063,
+        "val_accuracy": 0.8303571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 116,
+        "train_loss": 0.4895273745059967,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.02872061942304884,
+        "val_accuracy": 0.7857142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 117,
+        "train_loss": 0.4568851888179779,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.023428894180272306,
+        "val_accuracy": 0.8214285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 118,
+        "train_loss": 0.2675963044166565,
+        "train_accuracy": 0.9375,
+        "val_loss": 0.024321720270173892,
+        "val_accuracy": 0.7857142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 119,
+        "train_loss": 0.5155307054519653,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.02918580706630434,
+        "val_accuracy": 0.7678571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 120,
+        "train_loss": 0.3782016336917877,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.02610276160495622,
+        "val_accuracy": 0.8214285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 121,
+        "train_loss": 0.4409194886684418,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.028615878894925117,
+        "val_accuracy": 0.7767857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 122,
+        "train_loss": 0.542170524597168,
+        "train_accuracy": 0.625,
+        "val_loss": 0.02624128945171833,
+        "val_accuracy": 0.8035714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 123,
+        "train_loss": 0.42728132009506226,
+        "train_accuracy": 0.75,
+        "val_loss": 0.026859366734113013,
+        "val_accuracy": 0.7589285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 124,
+        "train_loss": 0.5275195837020874,
+        "train_accuracy": 0.625,
+        "val_loss": 0.023428953119686673,
+        "val_accuracy": 0.8303571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 125,
+        "train_loss": 0.5778079628944397,
+        "train_accuracy": 0.75,
+        "val_loss": 0.028691312830363,
+        "val_accuracy": 0.7589285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 126,
+        "train_loss": 0.2716439366340637,
+        "train_accuracy": 0.9375,
+        "val_loss": 0.022628505182053362,
+        "val_accuracy": 0.8392857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 127,
+        "train_loss": 0.29601532220840454,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.029082498380116055,
+        "val_accuracy": 0.7678571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 128,
+        "train_loss": 0.2492765188217163,
+        "train_accuracy": 0.9375,
+        "val_loss": 0.029604016670158932,
+        "val_accuracy": 0.75,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 129,
+        "train_loss": 0.6130354404449463,
+        "train_accuracy": 0.5625,
+        "val_loss": 0.03309455168034349,
+        "val_accuracy": 0.6875,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 130,
+        "train_loss": 0.41558170318603516,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.03265781221645219,
+        "val_accuracy": 0.6964285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 131,
+        "train_loss": 0.6737928986549377,
+        "train_accuracy": 0.75,
+        "val_loss": 0.030618238928062574,
+        "val_accuracy": 0.75,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 132,
+        "train_loss": 0.46679896116256714,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.03060795340154852,
+        "val_accuracy": 0.7589285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 133,
+        "train_loss": 0.3885766565799713,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.02832827717065811,
+        "val_accuracy": 0.7767857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 134,
+        "train_loss": 0.4431180953979492,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.031479708052107265,
+        "val_accuracy": 0.7321428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 135,
+        "train_loss": 0.3242728114128113,
+        "train_accuracy": 0.9375,
+        "val_loss": 0.025040405137198313,
+        "val_accuracy": 0.7946428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 136,
+        "train_loss": 0.31559979915618896,
+        "train_accuracy": 0.875,
+        "val_loss": 0.026461831027907983,
+        "val_accuracy": 0.7767857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 137,
+        "train_loss": 0.3846546411514282,
+        "train_accuracy": 0.875,
+        "val_loss": 0.02840613094823701,
+        "val_accuracy": 0.7321428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 138,
+        "train_loss": 0.3569372892379761,
+        "train_accuracy": 0.875,
+        "val_loss": 0.028517384880355427,
+        "val_accuracy": 0.7589285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 139,
+        "train_loss": 0.5569816827774048,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.02713288606277534,
+        "val_accuracy": 0.7767857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 140,
+        "train_loss": 0.7345882654190063,
+        "train_accuracy": 0.625,
+        "val_loss": 0.02631441823073796,
+        "val_accuracy": 0.8035714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 141,
+        "train_loss": 0.2649804949760437,
+        "train_accuracy": 1.0,
+        "val_loss": 0.028311902124966894,
+        "val_accuracy": 0.7589285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 142,
+        "train_loss": 0.364879846572876,
+        "train_accuracy": 0.75,
+        "val_loss": 0.028602462261915207,
+        "val_accuracy": 0.75,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 143,
+        "train_loss": 0.40402713418006897,
+        "train_accuracy": 0.875,
+        "val_loss": 0.028376329424125806,
+        "val_accuracy": 0.7678571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 144,
+        "train_loss": 0.35735559463500977,
+        "train_accuracy": 0.875,
+        "val_loss": 0.025860835931130817,
+        "val_accuracy": 0.8035714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 145,
+        "train_loss": 0.4044652283191681,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.02804324802543436,
+        "val_accuracy": 0.7857142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 146,
+        "train_loss": 0.2368568778038025,
+        "train_accuracy": 0.875,
+        "val_loss": 0.03060581162571907,
+        "val_accuracy": 0.7321428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 147,
+        "train_loss": 0.3991219699382782,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.025253979223115102,
+        "val_accuracy": 0.8035714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 148,
+        "train_loss": 0.4112361669540405,
+        "train_accuracy": 0.75,
+        "val_loss": 0.02593883260020188,
+        "val_accuracy": 0.8035714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 149,
+        "train_loss": 0.3268350064754486,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.027959652777229036,
+        "val_accuracy": 0.7767857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 150,
+        "train_loss": 0.5714080333709717,
+        "train_accuracy": 0.625,
+        "val_loss": 0.02580436212675912,
+        "val_accuracy": 0.7767857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 151,
+        "train_loss": 0.47186896204948425,
+        "train_accuracy": 0.75,
+        "val_loss": 0.028455586305686405,
+        "val_accuracy": 0.7857142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 152,
+        "train_loss": 0.37662601470947266,
+        "train_accuracy": 0.875,
+        "val_loss": 0.025065664468067034,
+        "val_accuracy": 0.8214285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 153,
+        "train_loss": 0.2559874653816223,
+        "train_accuracy": 0.875,
+        "val_loss": 0.026014858590705053,
+        "val_accuracy": 0.7857142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 154,
+        "train_loss": 0.49097704887390137,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.031167581544390748,
+        "val_accuracy": 0.7321428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 155,
+        "train_loss": 0.6070812344551086,
+        "train_accuracy": 0.625,
+        "val_loss": 0.02849153828408037,
+        "val_accuracy": 0.7678571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 156,
+        "train_loss": 0.4337950348854065,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.030878169994269098,
+        "val_accuracy": 0.7589285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 157,
+        "train_loss": 0.39196643233299255,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.03132002667656967,
+        "val_accuracy": 0.7232142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 158,
+        "train_loss": 0.5185818076133728,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.03093258131827627,
+        "val_accuracy": 0.75,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 159,
+        "train_loss": 0.3542102575302124,
+        "train_accuracy": 0.875,
+        "val_loss": 0.027121862662690028,
+        "val_accuracy": 0.7589285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 160,
+        "train_loss": 0.4012911915779114,
+        "train_accuracy": 0.75,
+        "val_loss": 0.028320158698729107,
+        "val_accuracy": 0.7678571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 161,
+        "train_loss": 0.4564914107322693,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.028418930912656442,
+        "val_accuracy": 0.7678571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 162,
+        "train_loss": 0.32404083013534546,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.026615921141845838,
+        "val_accuracy": 0.7678571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 163,
+        "train_loss": 0.4295874238014221,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.032827897795609066,
+        "val_accuracy": 0.7232142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 164,
+        "train_loss": 0.28571587800979614,
+        "train_accuracy": 0.9375,
+        "val_loss": 0.031065197129334723,
+        "val_accuracy": 0.7946428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 165,
+        "train_loss": 0.45233482122421265,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.024498624860176017,
+        "val_accuracy": 0.8035714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 166,
+        "train_loss": 0.5071025490760803,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.031231493822165897,
+        "val_accuracy": 0.7767857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 167,
+        "train_loss": 0.36540815234184265,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.022687133135540143,
+        "val_accuracy": 0.8482142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 168,
+        "train_loss": 0.7783611416816711,
+        "train_accuracy": 0.5,
+        "val_loss": 0.027067184980426515,
+        "val_accuracy": 0.8125,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 169,
+        "train_loss": 0.4327740967273712,
+        "train_accuracy": 0.75,
+        "val_loss": 0.027659713689770018,
+        "val_accuracy": 0.7857142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 170,
+        "train_loss": 0.4562099575996399,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.028778632836682454,
+        "val_accuracy": 0.7946428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 171,
+        "train_loss": 0.3898221552371979,
+        "train_accuracy": 0.9375,
+        "val_loss": 0.033394447926964076,
+        "val_accuracy": 0.7589285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 172,
+        "train_loss": 0.48147326707839966,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.026789828336664608,
+        "val_accuracy": 0.7767857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 173,
+        "train_loss": 0.5096813440322876,
+        "train_accuracy": 0.75,
+        "val_loss": 0.025526157713362148,
+        "val_accuracy": 0.8035714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 174,
+        "train_loss": 0.4350169897079468,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.030067047902515957,
+        "val_accuracy": 0.75,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 175,
+        "train_loss": 0.620959460735321,
+        "train_accuracy": 0.5,
+        "val_loss": 0.028984446876815388,
+        "val_accuracy": 0.7589285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 176,
+        "train_loss": 0.6273620128631592,
+        "train_accuracy": 0.75,
+        "val_loss": 0.026739129530532018,
+        "val_accuracy": 0.7857142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 177,
+        "train_loss": 0.2481900155544281,
+        "train_accuracy": 1.0,
+        "val_loss": 0.03272103491638388,
+        "val_accuracy": 0.7232142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 178,
+        "train_loss": 0.5258764624595642,
+        "train_accuracy": 0.75,
+        "val_loss": 0.024790051260164807,
+        "val_accuracy": 0.8125,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 179,
+        "train_loss": 0.5326229333877563,
+        "train_accuracy": 0.75,
+        "val_loss": 0.028869534177439555,
+        "val_accuracy": 0.7678571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 180,
+        "train_loss": 0.45673978328704834,
+        "train_accuracy": 0.75,
+        "val_loss": 0.026713143768055097,
+        "val_accuracy": 0.7857142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 181,
+        "train_loss": 0.26919957995414734,
+        "train_accuracy": 0.875,
+        "val_loss": 0.027850536895649775,
+        "val_accuracy": 0.8303571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 182,
+        "train_loss": 0.4668961763381958,
+        "train_accuracy": 0.75,
+        "val_loss": 0.023977240281445638,
+        "val_accuracy": 0.8125,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 183,
+        "train_loss": 0.3522769808769226,
+        "train_accuracy": 0.875,
+        "val_loss": 0.025620920849697932,
+        "val_accuracy": 0.7857142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 184,
+        "train_loss": 0.3001406490802765,
+        "train_accuracy": 1.0,
+        "val_loss": 0.025773846677371433,
+        "val_accuracy": 0.8303571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 185,
+        "train_loss": 0.37961649894714355,
+        "train_accuracy": 0.75,
+        "val_loss": 0.028596164658665657,
+        "val_accuracy": 0.7946428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 186,
+        "train_loss": 0.608590841293335,
+        "train_accuracy": 0.5625,
+        "val_loss": 0.024873707576521804,
+        "val_accuracy": 0.8303571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 187,
+        "train_loss": 0.33121180534362793,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.024081061195049967,
+        "val_accuracy": 0.8303571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 188,
+        "train_loss": 0.4151754677295685,
+        "train_accuracy": 0.75,
+        "val_loss": 0.027815956489316056,
+        "val_accuracy": 0.7946428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 189,
+        "train_loss": 0.6850793957710266,
+        "train_accuracy": 0.625,
+        "val_loss": 0.031174730775611743,
+        "val_accuracy": 0.7232142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 190,
+        "train_loss": 0.7230185270309448,
+        "train_accuracy": 0.625,
+        "val_loss": 0.030125242258821214,
+        "val_accuracy": 0.7321428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 191,
+        "train_loss": 0.40143710374832153,
+        "train_accuracy": 0.75,
+        "val_loss": 0.02757071171488081,
+        "val_accuracy": 0.7857142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 192,
+        "train_loss": 0.23301608860492706,
+        "train_accuracy": 1.0,
+        "val_loss": 0.02737589366734028,
+        "val_accuracy": 0.7767857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 193,
+        "train_loss": 0.5693143606185913,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.026616432570985386,
+        "val_accuracy": 0.7946428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 194,
+        "train_loss": 0.680927038192749,
+        "train_accuracy": 0.625,
+        "val_loss": 0.032435134053230286,
+        "val_accuracy": 0.7142857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 195,
+        "train_loss": 0.4458133280277252,
+        "train_accuracy": 0.875,
+        "val_loss": 0.024128242262772152,
+        "val_accuracy": 0.8214285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 196,
+        "train_loss": 0.545580267906189,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.027559355699590275,
+        "val_accuracy": 0.7678571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 197,
+        "train_loss": 0.31803035736083984,
+        "train_accuracy": 0.875,
+        "val_loss": 0.020258062253040925,
+        "val_accuracy": 0.8839285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 198,
+        "train_loss": 0.3142928183078766,
+        "train_accuracy": 0.9375,
+        "val_loss": 0.02874911656337125,
+        "val_accuracy": 0.7678571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 199,
+        "train_loss": 0.3129134178161621,
+        "train_accuracy": 0.9375,
+        "val_loss": 0.025279742532542775,
+        "val_accuracy": 0.7857142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 200,
+        "train_loss": 0.6220182180404663,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.023950254012431418,
+        "val_accuracy": 0.8035714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 201,
+        "train_loss": 0.40347200632095337,
+        "train_accuracy": 0.75,
+        "val_loss": 0.024429277117763246,
+        "val_accuracy": 0.8214285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 202,
+        "train_loss": 0.3537190556526184,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.026752781389015063,
+        "val_accuracy": 0.8214285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 203,
+        "train_loss": 0.4531809985637665,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.03057690630001681,
+        "val_accuracy": 0.75,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 204,
+        "train_loss": 0.25571325421333313,
+        "train_accuracy": 0.9375,
+        "val_loss": 0.026406167075037956,
+        "val_accuracy": 0.8214285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 205,
+        "train_loss": 0.34406325221061707,
+        "train_accuracy": 0.875,
+        "val_loss": 0.02634310136948313,
+        "val_accuracy": 0.8214285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 206,
+        "train_loss": 0.5332571864128113,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.026010939984449317,
+        "val_accuracy": 0.7946428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 207,
+        "train_loss": 0.3720812499523163,
+        "train_accuracy": 0.75,
+        "val_loss": 0.030855836612837657,
+        "val_accuracy": 0.7589285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 208,
+        "train_loss": 0.45674505829811096,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.03299454865711076,
+        "val_accuracy": 0.7589285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 209,
+        "train_loss": 0.3139793872833252,
+        "train_accuracy": 0.8125,
+        "val_loss": 0.024343487673572133,
+        "val_accuracy": 0.8482142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 210,
+        "train_loss": 0.43401700258255005,
+        "train_accuracy": 0.75,
+        "val_loss": 0.024590707384049892,
+        "val_accuracy": 0.8214285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 211,
+        "train_loss": 0.6208209991455078,
+        "train_accuracy": 0.625,
+        "val_loss": 0.029466950999838964,
+        "val_accuracy": 0.7589285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 212,
+        "train_loss": 0.49344944953918457,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.025506183238966123,
+        "val_accuracy": 0.8303571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 213,
+        "train_loss": 0.6679465174674988,
+        "train_accuracy": 0.625,
+        "val_loss": 0.027753473658646857,
+        "val_accuracy": 0.7857142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 214,
+        "train_loss": 0.6185795664787292,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.03222675461854253,
+        "val_accuracy": 0.7410714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 215,
+        "train_loss": 0.5002847909927368,
+        "train_accuracy": 0.875,
+        "val_loss": 0.035021886229515076,
+        "val_accuracy": 0.6607142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 216,
+        "train_loss": 0.3511945307254791,
+        "train_accuracy": 0.875,
+        "val_loss": 0.026703711865203723,
+        "val_accuracy": 0.7857142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 217,
+        "train_loss": 0.2977677285671234,
+        "train_accuracy": 0.9375,
+        "val_loss": 0.025921666329460486,
+        "val_accuracy": 0.8035714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 218,
+        "train_loss": 0.5049313306808472,
+        "train_accuracy": 0.625,
+        "val_loss": 0.028100843408278058,
+        "val_accuracy": 0.7678571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 219,
+        "train_loss": 0.34951913356781006,
+        "train_accuracy": 0.875,
+        "val_loss": 0.027857123208897456,
+        "val_accuracy": 0.7678571428571429,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 220,
+        "train_loss": 0.5719431638717651,
+        "train_accuracy": 0.625,
+        "val_loss": 0.029093716825757707,
+        "val_accuracy": 0.7589285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 221,
+        "train_loss": 0.4898725152015686,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.025611393419759616,
+        "val_accuracy": 0.8035714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 222,
+        "train_loss": 0.5961946845054626,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.025706673307078227,
+        "val_accuracy": 0.8392857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 223,
+        "train_loss": 0.30811426043510437,
+        "train_accuracy": 0.9375,
+        "val_loss": 0.025690152708973204,
+        "val_accuracy": 0.8214285714285714,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 224,
+        "train_loss": 0.434291809797287,
+        "train_accuracy": 0.75,
+        "val_loss": 0.03168767158474241,
+        "val_accuracy": 0.7232142857142857,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 225,
+        "train_loss": 0.5954786539077759,
+        "train_accuracy": 0.625,
+        "val_loss": 0.027604663212384497,
+        "val_accuracy": 0.8035714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 226,
+        "train_loss": 0.6245935559272766,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.027024960943630764,
+        "val_accuracy": 0.7767857142857143,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 227,
+        "train_loss": 0.33533015847206116,
+        "train_accuracy": 0.875,
+        "val_loss": 0.027431781270674298,
+        "val_accuracy": 0.8035714285714286,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 228,
+        "train_loss": 0.5096461176872253,
+        "train_accuracy": 0.6875,
+        "val_loss": 0.029984526336193085,
+        "val_accuracy": 0.7321428571428571,
+        "val_subsample_size": 100
+    },
+    {
+        "epoch": 2,
+        "batch": 229,
+        "train_loss": 0.11856302618980408,
+        "train_accuracy": 1.0,
+        "val_loss": 0.026207078115216324,
+        "val_accuracy": 0.7946428571428571,
+        "val_subsample_size": 100
+    }
+]

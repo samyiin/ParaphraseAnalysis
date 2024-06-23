@@ -1,0 +1,12 @@
+{
+    "epoch": 0,
+    "batch": 229,
+    "train_loss": 0.18730592727661133,
+    "train_accuracy": 1.0,
+    "val_loss": 0.018203635517434747,
+    "val_accuracy": 0.8921568627450981,
+    "val_subsample_size": 408,
+    "test_loss": 0.01871981981439867,
+    "test_accuracy": 0.8840579710144928,
+    "test_subsample_size": 1725
+}
