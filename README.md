@@ -14,8 +14,8 @@ In this project, we did four things under four notebooks:
 1. Full fine-tuned microsoft/deberta-v3-base to train the model to identify paraphrases.
 2. Low Rank Adaptation on microsoft/deberta-v3-base to train the model to identify paraphrases.
 3. Low Rank Adaptation on microsoft/deberta-v3-large to train the model to identify paraphrases.
-4. Low Rank Adaptation on google/gemma-2b to train the model to identify paraphrases
-google/gemma-2b is a relatively new model by the time this project is done.
+4. Low Rank Adaptation on google/gemma-2b to train the model to identify paraphrases   
+*google/gemma-2b is a relatively new model by the time this project is done.
 
 ## Results
 We reached around 90% accuracy with each single model, to view the exact accuracy, please refer to our notebooks.  
